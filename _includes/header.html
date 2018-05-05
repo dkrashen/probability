@@ -1,0 +1,21 @@
+<div class="container">
+
+	<div class="row header-row">
+
+		<div class="col-md-9">
+			<h1> 
+      <a href="{{ "/" | prepend: site.baseurl}}"> {{ site.page_title }} </a>
+      </h1>
+			<p> {{ site.course_title }}<br /> {{ site.description }} </p>
+			<p>	{{ site.email }} </p>
+
+	{% include navigation.html %}
+
+		</div><!--/col-->
+
+		<div class="col-md-3">
+      {% include image.html %}
+		</div><!--/col-->
+
+	</div><!--/row-->
+

@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="row header-row"> <!-- 0 -->
+
+<div class="col-md-9"> <!--1-->
+	<dl>
+    <dt> Instructor </dt>
+      <dd> {{ site.instructor }} </dd>
+    <dt> Office Hours </dt>
+      <dd> {{site.office_hours}} </dd>
+    <dt> Lecture Schedule </dt>
+      <dd> {{ site.lecture_schedule }} </dd>
+      {% if site.lecture_schedule2 %}
+      <dd> {{ site.lecture_schedule2 }} </dd>
+      {% endif %}
+  </dl>
+  <p>
+  <a href="{{ site.syllabus_url }}">
+  <button class="btn btn-success" type="button">Course Syllabus</button>
+  </a>
+  </p>
+<!--
+
+<div class="col-md-6 "> 
+  <h3> What's New </h3>
+  <ul class="posts list-unstyled">
+    {% for post in site.posts limit:1 %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" 
+          href="{{ post.url | prepend: site.baseurl }}"
+          >{{ post.title }}</a>
+        <p> {{ post.content }} </p>
+      </li>
+    {% endfor %}
+  </ul>
+</div> 
+
+
+  <h3> Older News </h3>
+  <ul class="posts list-unstyled">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" 
+          href="{{ post.url | prepend: site.baseurl }}"
+          >{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="rss-subscribe">
+    subscribe to the class newsfeed
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>, <br />
+  </p>
+-->
+
+</div><!--/2 inner row well-->
+</div><!--/1 right column with width 4-->
+
+</div><!--/0 top level row with outer well-->
+
+
