@@ -8,21 +8,6 @@
   margin-bottom: 2px;
 }
 
-@media (min-width: 768px) {
-  .dl-horizontal dt {
-    float: left;
-    width: 100px;
-    overflow: hidden;
-    clear: left;
-    text-align: right;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .dl-horizontal dd {
-    margin-left: 120px;
-  }
-}
-
 
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
