@@ -1,0 +1,13 @@
+-   id: "home_link"
+    title: "Home"
+    url: "/"
+-   id: "notes_link"
+    title: "Lecture Notes"
+    url: "/lectures/"
+-   id: "syllabus"
+    title: "Course Syllabus"
+    url: "/ha_syllabus/"
+-   id: "instructor"
+    title: "Instructor's home page"
+    url: "http://dkrashen.github.io"
+    prepend: false

@@ -1,22 +1,13 @@
 <ul class="nav nav-pills">
-	<li id="home_link">
-		<a href="{{ "/" | prepend: site.baseurl}}">
-			Home
+{% for n in site.data.navlinks %}
+	<li id="{{n.id}}">
+		{% unless n.prepend == false %}
+		<a href="{{ n.url | prepend: site.baseurl }}">
+		{% else %}
+		<a href="{{ n.url }}">
+		{% endunless %}
+			{{n.title}}
 		</a>
-    </li>
-    <li id="notes_link">
-      	<a href="{{ "/lectures/" | prepend: site.baseurl}}">
-			Lecture Notes
-		</a>
-    </li>
-	<li id="syllabus">
-		<a href="{{ site.syllabus_url }}">
-    		Course Syllabus
-		</a>
-	</li>
 	<li>
-     	<a href="http://dkrashen.github.io">
-			Instructor's home page
-		</a>
-    </li>
+{% endfor %}
 </ul>
