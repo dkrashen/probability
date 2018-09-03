@@ -22,7 +22,4 @@ layout: default
  - Lie algebra cohomology
  - Simplicial methods
  - Homotopical algebra
- - Examples of spectral sequences and computations: Bicomplexes,
-   hypercohomology, Grothendieck spectral sequence, Lyndon-Hoschild-Serre
-   spectral sequence, exact couples, Leray-Serre
-   spectral sequence, ...
+ - Examples of spectral sequences and computations: Bicomplexes, hypercohomology, Grothendieck spectral sequence, Lyndon-Hoschild-Serre spectral sequence, exact couples, Leray-Serre spectral sequence,...
