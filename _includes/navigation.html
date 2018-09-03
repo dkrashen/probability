@@ -1,15 +1,22 @@
-	<ul class="nav nav-pills">
-		<li id="home_link">
-      <a href="{{ "/" | prepend: site.baseurl}}"
-        >Home</a>
+<ul class="nav nav-pills">
+	<li id="home_link">
+		<a href="{{ "/" | prepend: site.baseurl}}">
+			Home
+		</a>
     </li>
     <li id="notes_link">
-      <a href="{{ "/lectures/" | prepend: site.baseurl}}"
-        >Lecture Notes</a>
+      	<a href="{{ "/lectures/" | prepend: site.baseurl}}">
+			Lecture Notes
+		</a>
     </li>
-		<li>
-      <a href="http://dkrashen.github.io"
-        >Danny's Page</a>
+	<li id="syllabus">
+		<a href="{{ site.syllabus_url }}">
+    		Course Syllabus
+		</a>
+	</li>
+	<li>
+     	<a href="http://dkrashen.github.io">
+			Instructor's home page
+		</a>
     </li>
-	</ul>
-
+</ul>
