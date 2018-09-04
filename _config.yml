@@ -1,17 +1,15 @@
-testing: true
+testing: false
 
 # Site settings
 title: "Homological Algebra (Rutgers 16:640:560, Fall 2018)"
 page_title: "Homological Algebra"
 course_title: "Rutgers MATH 560, Fall 2018."
 description: "Categories of modules, complexes and resolutions, derived
-functors and spectral sequences."
+functors, spectral sequences,..."
 instructor: "Daniel Krashen"
 email: "daniel.krashen@rutgers.edu"
-office_hours: "Hill 207/230, by appointment"
+office_hours: "Hill 207/220, by appointment"
 lecture_schedule: "Tues/Thurs 1:40pm-3:00pm"
-
-syllabus_url: "ha_syllabus/"
 
 baseurl: "/homological"
 url: "http://dkrashen.github.io"
