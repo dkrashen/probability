@@ -1,3 +1,6 @@
 - title: "Lecture 1"
   filename: "lecture1.pdf"
   description: "Introductory remarks"
+- title: "Lecture 2"
+  filename: "lecture2.pdf"
+  description: "Ad-Cats, Additive Categories, Abelian Categories"
