@@ -12,10 +12,16 @@
   description: "A look at some (derived) functors of interest, introduction
   to delta functors (section 2.1)"
 
-- title: "Lecture 5 (not yet online)"
-  filename: ""
-  description: "Universal delta functors and effacability, Chasing diagrams
-  with the Yoneda lemma (2.1, 2.2)"
+- title: "Lecture 5.1"
+  filename: "lecture5.1.pdf"
+  video_url: ""
+  description: "Chasing diagrams with the Yoneda lemma (video not yet
+  online)"
+
+- title: "Lecture 5.2"
+  video_url: "" 
+  description: "Universal and effaceable delta functors (video not yet
+  online)"
 
 - title: "Lecture 6 (not yet online)"
   filename: ""

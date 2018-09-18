@@ -8,8 +8,14 @@ layout: default
 	  <b>{{l.title}}</b>: {{l.description}}
 	</div>
 	<div class="col-md-3">
+    {% if l.filename %}
 		<a href="{{ l.filename }}"><button type="button"
     class="btn btn-lnk btn-spaced">pdf</button></a>
+    {% endif %}
+    {% if l.video_url %}
+    <a href="{{ l.vieo_url }}"><button type="button"
+    class="btn btn-lnk btn-spaced">video</button></a>
+    {% endif %}
 	</div>
 </div>
 {% endfor %}
