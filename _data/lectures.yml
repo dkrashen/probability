@@ -18,9 +18,8 @@
   description: "Chasing diagrams with the Yoneda lemma"
 
 - title: "Lecture 5.2"
-  video_url: "" 
-  description: "Universal and effaceable delta functors (video not yet
-  online)"
+  video_url: "https://youtu.be/t5TwXGfGPtQ" 
+  description: "Universal and effaceable delta functors"
 
 - title: "Lecture 6 (not yet online)"
   filename: ""
