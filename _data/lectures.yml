@@ -21,8 +21,7 @@
   video_url: "https://youtu.be/t5TwXGfGPtQ" 
   description: "Universal and effaceable delta functors"
 
-- title: "Lecture 6 (not yet online)"
-  filename: ""
-  description: "Projective and injective resolutions, left and right
-  derived functors (sections 2.3, 2.4, 2.5)"
+- title: "Lecture 6"
+  filename: "lecture6.pdf"
+  description: "Projective resolutions, projective modules (section 2.2)"
 
