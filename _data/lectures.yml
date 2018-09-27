@@ -25,3 +25,6 @@
   filename: "lecture6.pdf"
   description: "Projective resolutions, projective modules (section 2.2)"
 
+- title: "Lecture 7"
+  filename: "lecture7.pdf"
+  description: "Left derived functors (section 2.4)"
