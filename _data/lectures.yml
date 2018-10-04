@@ -28,3 +28,7 @@
 - title: "Lecture 7"
   filename: "lecture7.pdf"
   description: "Left derived functors (section 2.4)"
+
+- title: "Lecture 9"
+  filename: "lecture9.pdf"
+  description: "Digression into quotients of Abelian categories"
