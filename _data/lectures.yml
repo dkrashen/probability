@@ -32,3 +32,15 @@
 - title: "Lecture 9"
   filename: "lecture9.pdf"
   description: "Digression into quotients of Abelian categories"
+
+- title: "Lecture 10"
+  filename: "lecture10.pdf"
+  description: "There are enough injective modules"
+
+- title: "Lecture 11"
+  filename: "lecture11.pdf"
+  description: "Double complexes and the acyclic assembly lemma"
+
+- title: "Lecture 12"
+  filename: "lecture12.pdf"
+  description: "Mapping cones and balancing Tor"
