@@ -54,4 +54,17 @@
   filename: "lecture14.pdf"
   description: "Group cohomology"
 
+- title: "Lecture 15"
+  filename: "lecture15.pdf"
+  description: "Bar resolution and not quite spectral sequences"
+
+- title: "Lecture 16"
+  filename: "lecture16.pdf"
+  description: "What are spectral sequences?"
+
+- title: "Lecture 17"
+  filename: "lecture17.pdf"
+  description: "The spectral sequence of a filtered complex"
+
+
 
