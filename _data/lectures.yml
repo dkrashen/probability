@@ -66,5 +66,12 @@
   filename: "lecture17.pdf"
   description: "The spectral sequence of a filtered complex"
 
+- title: "Lecture 18"
+  filename: "lecture18.pdf"
+  description: "The spectral sequence of a double complex"
+
+- title: "Lecture 19"
+  filename: ""
+  description: "Hyperderived functors"
 
 
