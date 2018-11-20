@@ -71,7 +71,10 @@
   description: "The spectral sequence of a double complex"
 
 - title: "Lecture 19"
-  filename: ""
+  filename: "lecture19.pdf"
   description: "Hyperderived functors"
 
+- title: "Lecture 20"
+  filename: "lecture20.pdf"
+  description: "The hyperderived functor spectral sequences"
 
