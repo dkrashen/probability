@@ -78,3 +78,7 @@
   filename: "lecture20.pdf"
   description: "The hyperderived functor spectral sequences"
 
+- title: "Lecture 21"
+  filename: "lecture21.pdf"
+  description: "From the hyperderived functor spectral sequence to the
+  Grothendieck spectral sequence"
