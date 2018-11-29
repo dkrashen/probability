@@ -82,3 +82,7 @@
   filename: "lecture21.pdf"
   description: "From the hyperderived functor spectral sequence to the
   Grothendieck spectral sequence"
+
+- title: "Lecture 22"
+  filename: "lecture22.pdf"
+  description: "Sheaf cohomology, de Rham cohomology"
