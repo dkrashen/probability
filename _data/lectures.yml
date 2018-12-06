@@ -91,3 +91,7 @@
   filename: "lecture23.pdf"
   description: "Overview of derived couples. Introduction to homological
   dimension of rings."
+
+- title: "Lecture 24"
+  filename: "lecture24.pdf"
+  description: "Some things about rings."
