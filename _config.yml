@@ -1,17 +1,18 @@
 testing: false
 
 # Site settings
-title: "Homological Algebra (Rutgers 16:640:560, Fall 2018)"
-page_title: "Homological Algebra"
-course_title: "Rutgers MATH 560, Fall 2018."
-description: "Categories of modules, complexes and resolutions, derived
-functors, spectral sequences,..."
+title: "Mathematical Theory of Probability (Rutgers 01:640:477, section 05,
+Spring 2019)"
+page_title: "Mathematical Theory of Probability"
+course_title: "Rutgers MATH 477, Spring 2019."
+description: ""
 instructor: "Daniel Krashen"
-email: "daniel.krashen@rutgers.edu"
-office_hours: "Hill 207/220, by appointment"
-lecture_schedule: "Tues/Thurs 1:40pm-3:00pm, Hill 552"
+email: "daniel.krashen+prob@gmail.com"
+office_hours: "TBD, Hill Center 220 (Busch Campus)"
+lecture_schedule: "Tues/Fri 12:00pm-1:20pm, Business Rockafeller Road 1071
+(Livingston Campus)"
 
-baseurl: "/homological-algebra"
+baseurl: "/probability"
 url: "http://dkrashen.github.io"
 
 # url: "localhost:4000"
