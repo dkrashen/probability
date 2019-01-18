@@ -17,11 +17,10 @@ layout: default
 <h4>Administrative Details</h4>
 
 Grading:
- - Group work 10% (graded for completion)
- - Quizzes 10% (lowest score dropped)
- - Homework 20% (lowest score dropped)
+ - In class work 10% (graded for completion)
+ - Homework 25% (lowest score dropped)
  - Exams 40% (2 exams worth 20% each)
- - Final 20%
+ - Final 25%
 
 Any issues with grading needs to be submitted in writing, on a separate
 sheet of paper attached to your exam/quiz/homework, stating which problem
