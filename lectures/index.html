@@ -4,19 +4,28 @@ layout: default
 <div class="row header-row">
 {% for l in site.data.lectures %}
 <div class="row well well-sm">
-	<div class="col-md-9">
+	<div class="col-md-7">
 	  <b>{{l.title}}</b>: {{l.description}}
 	</div>
 	<div class="col-md-3">
     {% if l.filename %}
 		<a href="{{ l.filename }}"><button type="button"
-    class="btn btn-lnk btn-spaced">pdf</button></a>
+    class="btn btn-lnk btn-spaced">lecture notes</button></a>
     {% endif %}
     {% if l.video_url %}
     <a href="{{ l.vieo_url }}"><button type="button"
     class="btn btn-lnk btn-spaced">video</button></a>
     {% endif %}
 	</div>
+  {% if l.quizfilename %}
+	<div class="col-md-7">
+  </div>
+	<div class="col-md-3">
+		<a href="../quizzes/{{ l.quizfilename }}"><button type="button"
+    class="btn btn-lnk btn-spaced">in class worksheet</button></a>
+	</div>
+  {% endif %}
+    
 </div>
 {% endfor %}
 </div>
