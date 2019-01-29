@@ -6,3 +6,7 @@
   filename: "lecture2.pdf"
   description: "Combinatorial analysis, part 2. Introduction to probability."
   quizfilename: "quiz2.pdf"
+- title: "Lecture 3"
+  filename: "lecture3.pdf"
+  description: "Inclusion-exclusion, equally likely outcomes."
+  quizfilename: "quiz3.pdf"
