@@ -10,3 +10,7 @@
   filename: "lecture3.pdf"
   description: "Inclusion-exclusion, equally likely outcomes."
   quizfilename: "quiz3.pdf"
+- title: "Lecture 4"
+  filename: "lecture4.pdf"
+  description: "Conditional probability, part 1."
+  quizfilename: "quiz4.pdf"
