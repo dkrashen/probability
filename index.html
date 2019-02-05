@@ -9,8 +9,12 @@ layout: default
     	<li> <b>Instructor</b>: {{ site.instructor }} </li>
     	<li> <b>Office</b>: {{ site.office }} </li>
     	<li> <b>Lecture Schedule</b>: {{ site.lecture_schedule }} </li>
-      <li> <b>Office Hours</b>: After class on Tuesdays, 1:25--2:25, 100 Rockefeller Road, room 1071
-      <br />See also TA office hours on the course Sakai page</li>
+      {% if site.office_hours %}
+      <li> <b>Office Hours</b>: {{ site.office_hours }}</li>
+      {% endif %}
+      {% if site.TA_office_hours %}
+      <li> <b>TA Office Hours</b>: {{ site.TA_office_hours }}</li>
+      {% endif %}
 	</ul>
 
 {% for h in site.data.homework %}
