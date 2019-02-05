@@ -19,7 +19,7 @@ layout: default
 Grading:
  - In class work 10% (graded for completion)
  - Homework 25% (lowest score dropped)
- - Exams 40% (2 exams worth 20% each)
+ - Exams 40% (2 exams worth 20% each, March 1 and April 19)
  - Final 25%
 
 Any issues with grading needs to be submitted in writing, on a separate
