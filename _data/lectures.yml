@@ -14,3 +14,7 @@
   filename: "lecture4.pdf"
   description: "Conditional probability, part 1."
   quizfilename: "quiz4.pdf"
+- title: "Lecture 5"
+  filename: "lecture5.pdf"
+  description: "Conditional probability, part 2."
+  quizfilename: "quiz5.pdf"
