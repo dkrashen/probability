@@ -26,3 +26,8 @@
   filename: ""
   description: "Conditional probability as probability."
   quizfilename: "quiz7.pdf"
+- title: "Lecture 8"
+  filename: "lecture8.pdf"
+  description: "Conditional probability wrap up, introduction to random
+  variables."
+  quizfilename: "quiz8.pdf"
