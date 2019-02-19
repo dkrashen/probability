@@ -31,3 +31,7 @@
   description: "Conditional probability wrap up, introduction to random
   variables."
   quizfilename: "quiz8.pdf"
+- title: "Lecture 9 (no in-class worksheet)"
+  filename: "lecture9.pdf"
+  description: "Expected values, variance, Bernoulli and Poisson variables."
+  quizfilename: ""
