@@ -35,3 +35,7 @@
   filename: "lecture9.pdf"
   description: "Expected values, variance, Bernoulli and Poisson variables."
   quizfilename: ""
+- title: "Lecture 10"
+  filename: "lecture10.pdf"
+  description: "A bestiary of random variables."
+  quizfilename: "quiz10.pdf"
