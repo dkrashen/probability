@@ -38,3 +38,7 @@
   filename: "lecture10.pdf"
   description: "A bestiary of random variables."
   quizfilename: "quiz10.pdf"
+- title: "Lecture 11"
+  filename: "lecture11.pdf"
+  description: "Binomial expectation and variance."
+  quizfilename: "quiz11.pdf"
