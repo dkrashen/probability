@@ -70,3 +70,11 @@
   description: "Expected value of functions of random variables, linearity
   of expectation."
   quizfilename: "quiz18.pdf"
+- title: "Lecture 19"
+  filename: "lecture19.pdf"
+  description: "More linearity of expectation."
+  quizfilename: "quiz19.pdf"
+- title: "Lecture 20"
+  filename: "lecture20.pdf"
+  description: "Conditional expectation."
+  quizfilename: "quiz20.pdf"
