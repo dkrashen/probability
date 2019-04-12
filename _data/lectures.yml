@@ -78,3 +78,7 @@
   filename: "lecture20.pdf"
   description: "Conditional expectation."
   quizfilename: "quiz20.pdf"
+- title: "Lecture 21"
+  filename: "lecture21.pdf"
+  description: "Probability generating functions."
+  quizfilename: "quiz21.pdf"
