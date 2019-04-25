@@ -11,3 +11,7 @@
     title: "Instructor's home page"
     url: "http://dkrashen.github.io"
     prepend: false
+-   id: "videos"
+    title: "Videos"
+    url: "https://www.youtube.com/playlist?list=PLwRA8zj9nt3iJUvPwxQmu_ZFintP-3AHh"
+    prepend: false
